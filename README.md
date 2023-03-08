@@ -1,8 +1,8 @@
 ## Soal Teori
 
-Rancangkanlah diagram database untuk aplikasi rumah makan.
+![ERD restaurant app](./soal_teori.png)
 
-
+### Jawaban
 
 ![ERD restaurant app](./erd.png)
 
