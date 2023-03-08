@@ -20,5 +20,10 @@
 Menjalankan program logic permainan dadu 
 
 ```bash
-  go run diceGame.go
+  go run diceGame.go -N=3 -M=4
 ```
+#### Keterangan Flag
+
+- N adalah jumlah pemain
+
+- M adalah jumlah dadu

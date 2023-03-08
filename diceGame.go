@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"math/rand"
 	"sort"
@@ -9,7 +10,11 @@ import (
 )
 
 func main() {
-	diceGame(3, 4)
+	var N = flag.Int("N", 3, " Jumlah pemain")
+	var M = flag.Int("M", 4, "Jumlah dadu")
+
+	flag.Parse()
+	diceGame(*N, *M)
 }
 
 func diceGame(players, totalDice int) {
