@@ -4,7 +4,7 @@ Rancangkanlah diagram database untuk aplikasi rumah makan.
 
 
 
-![Logo](./erd.png)
+![ERD restaurant app](./erd.png)
 
 
 #### Tech Stack
