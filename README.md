@@ -1,6 +1,6 @@
 ## Soal Teori
 
-![ERD restaurant app](./soal_teori.png)
+![soal teori](./soal_teori.png)
 
 ### Jawaban
 
