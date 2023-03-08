@@ -14,3 +14,11 @@
 **Server:** Go, gorm, PostgreSQL, Redis
 
 ## Soal Praktek
+![soal praktek](./soal_praktek.png)
+
+### Jawaban
+Menjalankan program logic permainan dadu 
+
+```bash
+  go run diceGame.go
+```
